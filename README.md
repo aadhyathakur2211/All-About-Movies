@@ -54,5 +54,23 @@ NOTEBOOK CONTENTS:
   - On the found communities, Sub-graphs creation based on topic distribution
   - Analysis
 
-## 7) Knowledge Graph Creation Utilities: <a href = "https://github.com/prabhnoor0212/All-About-Movies/blob/main/experiemnts/GraphUtils.ipynb"> notebook </a>
+## 7) Knowledge Graph Creation Utilities: <a href = "https://github.com/prabhnoor0212/All-About-Movies/blob/main/KnowledgeGraphCreation.ipynb"> notebook </a>
+
+NOTEBOOK CONTENTS:
+  - Basic data exploration and processing 
+  - Inserstion of entities and relationships in Neo4j DBMS 
+  - Inserted entites are :  Movie, Genre, Actor,Director, Production Company, Release year
+  - Created relationships are: Has_Genre, Acted_By, Directed_By, Produced_By, Released_In
+
+## 8) Knowledge Graph Embedding Models Comparative Study: <a href = "https://github.com/prabhnoor0212/All-About-Movies/blob/main/KnowledgeEmbeddingModelsComparativeStudyPart1.ipynb"> notebook part1 </a> <a href = "https://github.com/prabhnoor0212/All-About-Movies/blob/main/KnowledgeEmbeddingModelsComparativeStudyPart2.ipynb"> notebook part2 </a>
+
+
+NOTEBOOK CONTENTS:
+  - Installation of required libraries 
+  - Training and testing of the compared models (TransE, DistMult, ComplEx, and RotatE)
+  - Testing of embeddings for prediciton of head, tail and relationship tuples.
+  
+
+
+
 
